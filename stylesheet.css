@@ -1,0 +1,209 @@
+@charset "utf-8";
+body p {
+}
+.container-fluid {
+    background-color: #000000;
+}
+.col-lg-6 .card.col-md-4.col-lg-12 .card-img-top {
+    background-color: #000000;
+}
+.container .row .col-lg-6 {
+}
+.col-lg-6 .card.col-md-4.col-lg-12 .card-img-top {
+    background-color: #000000;
+}
+.col-lg-6 .card.col-md-4.col-lg-12 .card-img-top {
+    background-color: #DC373A;
+}
+.container .row .col-lg-6 {
+}
+center h2 i {
+    color: #FFFFFF;
+}
+h2 center i {
+    color: #E7E7E7;
+}
+.col-lg-6 h4 i {
+    color: #F6F6F6;
+}
+body {
+}
+.col-lg-6 i h4 {
+    color: #FFFFFF;
+}
+.container .row .col-lg-12 {
+    color: #FAFAFA;
+}
+.container .row .col-lg-6 {
+    color: #F7F7F7;
+}
+.card.col-md-4.col-lg-12 .card-body .card-title {
+    color: #FFFFFF;
+}
+.row .col-lg-4 .card.col-md-4.col-lg-12 {
+    color: #000000;
+}
+.row .col-lg-4 .card.col-md-4.col-lg-12 {
+    background-color: #000000;
+}
+.container .row .col-xl-4 {
+    background-color: #000000;
+}
+.col-xl-4 .card.col-md-4.col-xl-12 .card-body {
+    background-color: #000000;
+}
+.container-fluid .container .row {
+}
+.col-xl-4 .card.col-md-4.col-xl-12 .card-img-top {
+    background-color: #DD8889;
+}
+.col-xl-4 .card.col-md-4.col-xl-12 .card-img-top {
+    background-color: #000000;
+}
+.row .col-xl-4 .card.col-md-4.col-xl-10 {
+    background-color: #000000;
+}
+.container-fluid .container .jumbotron {
+    background-color: #000000;
+}
+.container .jumbotron .display-4 {
+    color: #FFFFFF;
+}
+.jumbotron .lead i {
+    color: #FFFFFF;
+}
+#headingOne1 .mb-0 a {
+}
+.row .col-lg-6 #accordion1 {
+}
+.col-lg-6 #accordion1 .card {
+    background-color: #000000;
+}
+.col-lg-6 #accordion2 .card {
+    background-color: #000000;
+}
+.col-lg-6 #accordion3 .card {
+    background-color: #000000;
+}
+.col-lg-6 #accordion4 .card {
+    background-color: #000000;
+}
+.col-lg-6 #accordion5 .card {
+    background-color: #000000;
+}
+.col-lg-6 .card.col-md-4.col-lg-12 .card-img-top {
+    background-color: #000000;
+}
+.row .col-lg-6 .card.col-md-4.col-lg-12 {
+    background-color: #000000;
+}
+.row .col-xl-4 .card.col-md-4.col-xl-12 {
+    background-color: #000000;
+}
+.col-lg-6 .card.col-md-4.col-lg-12 .card-img-top.img-thumbnail {
+    background-color: #000000;
+}
+.row .col-lg-6 .card.col-md-4.col-xl-12 {
+    background-color: #000000;
+}
+.container-fluid .container .navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #F92124;
+}
+.container-fluid .container .navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #E43437;
+}
+.container .navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+}
+.container .navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+}
+.container-fluid .container .navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #CE8283;
+}
+.container-fluid {
+    background-color: #000000;
+}
+.container .row .col-lg-12 {
+    background-color: #000000;
+}
+.card.col-md-4.col-xl-12 .card-body .card-title {
+    color: #FFFFFF;
+}
+.card.col-md-4.col-lg-12 .card-body .card-text {
+    color: #FFFFFF;
+}
+.card.col-md-4.col-xl-12 .card-body .card-text {
+    color: #FFFFFF;
+}
+.container-fluid .container p {
+    color: #FFFFFF;
+}
+h4 center i {
+    color: #FFFFFF;
+}
+.row .col-lg-4 label {
+    color: #FFFFFF;
+}
+.container-fluid .container .row {
+    color: #FFFFFF;
+}
+.container footer center {
+    color: #FFFFFF;
+}
+.row .col-lg-6 #accordion6 {
+    background-color: #000000;
+}
+.col-lg-6 #accordion6 .card {
+    background-color: #000000;
+}
+.card #headingOne6 .mb-0 {
+    color: #1C5EE9;
+}
+.card #headingOne5 .mb-0 {
+    color: #1C5EE9;
+}
+.card #headingOne4 .mb-0 {
+    color: #1C5EE9;
+}
+.card #headingOne3 .mb-0 {
+    color: #1C5EE9;
+}
+.card #headingOne2 .mb-0 {
+    color: #1C5EE9;
+}
+.card #headingOne1 .mb-0 {
+    color: #1C5EE9;
+}
+center .dropdown.show .btn.btn-lg.dropdown-toggle {
+	color: #FFFFFF;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #000000;
+}
+#navbarSupportedContent1 .navbar-nav.mr-auto .nav-item {
+}
+.container .navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+}
+.container .row .col-lg-12 {
+}
+body fieldset {
+    background-color: #000000;
+}
+center legend center {
+    color: #FFFFFF;
+}
+tr td label {
+    color: #FFFFFF;
+}
+.row .col-lg-12 {
+    background-color: #000000;
+}
+.row .col-xl-3 .card.col-md-4.col-xl-12 {
+    background-color: #000000;
+}
+.row .col-xl-12 .card.col-md-4.col-xl-12 {
+    background-color: #000000;
+}
+body footer center {
+    background-color: #000000;
+    color: #FFFFFF;
+}
