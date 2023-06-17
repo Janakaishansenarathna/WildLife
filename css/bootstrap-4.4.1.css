@@ -559,6 +559,10 @@ pre code {
   .container {
     max-width: 720px;
   }
+.container-fluid .container .navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #000000;
+}
+
 }
 
 @media (min-width: 992px) {
@@ -6753,7 +6757,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #f8f9fa /*!important*/;
 }
 
 a.bg-light:hover, a.bg-light:focus,

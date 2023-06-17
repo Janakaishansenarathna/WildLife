@@ -207,3 +207,16 @@ body footer center {
     background-color: #000000;
     color: #FFFFFF;
 }
+.container-fluid .container .navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #000000;
+}
+
+.navbar-light{
+	color: antiquewhite
+}
+.container-fluid .container .navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light {
+    background-color: #000000;
+}
+.container .row .col-lg-12 {
+    background-color: #000000;
+}
